@@ -8,7 +8,7 @@
 
 For your homework, fork this repository to your account. https://github.com/vcu-chfauerbach/root_homework1
 
-Updated the 'README.md' file to change the URLs for the github actions:
+Update the 'README.md' file to change the URLs for the github actions:
 
 https://github.com/vcu-chfauerbach/root_homework1/workflows/Pylint/badge.svg
 
