@@ -1,4 +1,4 @@
-""" This set of functions should return the appropriate data type"""
+""" This set of functions that should return the appropriate data type"""
 
 
 def return_number_3():
