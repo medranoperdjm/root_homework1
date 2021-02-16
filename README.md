@@ -16,7 +16,7 @@ should become
 
 https://github.com/medranoperdjm/root_homework1/workflows/Pylint/badge.svg
 
-Edit the file ./homework1/hw1.py to make the three github actions pass.
+Edit the file https://github.com/medranoperdjm/root_homework1/blob/master/homework1/hw1.py to make the three github actions pass.
 
 When they pass, and you see the updated badges in your repository, send me a link to the repository, like:
 
