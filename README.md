@@ -6,7 +6,7 @@
 
 ![Super-Linter](https://github.com/vcu-chfauerbach/root_homework1/workflows/Super-Linter/badge.svg)
 
-For your homework, fork this repository to your account. https://github.com/vcu-chfauerbach/root_homework1
+For your homework, fork this repository to your account.
 
 Update the 'README.md' file to change the URLs for the github actions:
 
