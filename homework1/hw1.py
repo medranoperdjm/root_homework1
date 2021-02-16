@@ -1,5 +1,10 @@
-""" This set of functions that should return the appropriate data type"""
+(https://github.com/vcu-chfauerbach/root_homework1/workflows/Python%20package/badge.svg)
 
+(https://github.com/vcu-chfauerbach/root_homework1/workflows/Pylint/badge.svg)
+
+(https://github.com/vcu-chfauerbach/root_homework1/workflows/Super-Linter/badge.svg)
+
+""" This set of functions that should return the appropriate data type"""
 
 def return_number_3():
     """ This function should return an integer with the value of 3"""
