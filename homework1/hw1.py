@@ -18,6 +18,6 @@ def return_without_starting_ending_whitespace(input_string):
     return_value = input_string.strip()
     return return_value
 def return_addition(first_number, second_number):
-    """ Return the two numbers added together. """   
+    """Return the two numbers added together."""   
     return_value = first_number + second_number
     return return_value
