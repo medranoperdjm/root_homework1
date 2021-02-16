@@ -13,7 +13,7 @@ def return_string_vcu():
     return_value = "VCU".lower()
     return return_value
 
-input_string = "HI"
+input_string = "HII"
 def return_lowercased_string(input_string):
     """You have a variable called input_string that is of type string.
     Return it but the lowercase version of it."""
